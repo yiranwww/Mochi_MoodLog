@@ -1,8 +1,9 @@
 # Mochi_MoodLog
 
 ## Env Requirement
- 1. streamlit
- 2. A public or private Google Sheet.
+ 1. streamlit (pip install streamlit)
+ 2. Python version is between 3.9 to 3.13
+ 3. A public or private Google Sheet.
     In this project I have provided the Google sheet link in "Mochi.py" where everyone could have access. The link will be modified and close after the process is over.
 
 ## Running Instructions
