@@ -12,4 +12,4 @@ After submitting the mood and the notes, the user will see the bar chart for tod
 
 
 ## Results store
-The users' feedback are stored in the Google sheet with format [timestamp, mood, note], so make sure the good sheet alread has the three head.
+The users' feedback are stored in the Google sheet with format $[timestamp, mood, note]$, so make sure the good sheet alread has the three head.
