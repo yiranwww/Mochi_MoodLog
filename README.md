@@ -5,7 +5,7 @@
  2. A public or private Google Sheet.
 
 ## Running Instructions
-Run "streamlit run Mochi_2.py" in the terminal, and you will see the Streamlit app in the browser.
+Run "streamlit run Mochi.py" in the terminal, and you will see the Streamlit app in the browser.
 Click for the mood option, and leaving a note is optional.
 
 After submitting the mood and the notes, the user will see the bar chart for today's mood.
