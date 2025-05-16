@@ -3,6 +3,7 @@
 ## Env Requirement
  1. streamlit
  2. A public or private Google Sheet.
+    In this project I have provided the Google sheet link in "Mochi.py" where everyone could have access. The link will be modified and close after the process is over.
 
 ## Running Instructions
 Run "streamlit run Mochi.py" in the terminal, and you will see the Streamlit app in the browser.
